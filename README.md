@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -13,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -50,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
