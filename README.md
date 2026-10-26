@@ -62,11 +62,13 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
