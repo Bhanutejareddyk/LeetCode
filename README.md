@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -12,63 +12,65 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0242-valid-anagram) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0507-perfect-number](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Bhanutejareddyk/LeetCode/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0242-valid-anagram) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
