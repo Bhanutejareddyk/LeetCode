@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Bhanutejareddyk/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0242-valid-anagram) |
 ## String
@@ -68,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanutejareddyk/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Bhanutejareddyk/LeetCode/tree/main/0344-reverse-string/) | Easy |
