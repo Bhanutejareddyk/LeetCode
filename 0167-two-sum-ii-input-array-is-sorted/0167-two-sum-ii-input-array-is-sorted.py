@@ -5,9 +5,9 @@ class Solution:
         while lp < rp:
             total = numbers[lp] + numbers[rp]
             if total == target:
-                return [lp + 1,rp + 1]
+                return(lp + 1, rp + 1)
             elif total < target:
                 lp += 1
             else:
-                rp -= 1        
+                rp -= 1            
         
